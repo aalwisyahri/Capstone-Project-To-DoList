@@ -49,9 +49,11 @@ src/
    cd smart-todo
 
 2. Install dependencies:
+   ```bash
    npm install
 
-3. Jalankan development server:
+4. Jalankan development server:
+   ```bash
    npm start
 
-4. Buka http://localhost:3000 di browser.
+6. Buka http://localhost:3000 di browser.
